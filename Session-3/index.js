@@ -1,9 +1,9 @@
 //splice 
-// var a = ['a' , 'b', 'c' ,'d']
+var a = ['a' , 'b', 'c' ,'d']
 
 
-// a.splice(1,0, 'ahmad','hannan')
-// console.log(a)
+var A = a.splice(1,2, 'ahmad','hannan')
+console.log(A)
 
 // var a = ['a' , 'b', 'c' ,'d']
 
@@ -58,3 +58,4 @@
 
 // var y = a.indexOf('THREE')
 // console.log(y)
+
