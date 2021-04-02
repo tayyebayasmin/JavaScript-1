@@ -21,3 +21,28 @@
     
 // }
 
+
+// //without var accessing outside block scope
+
+// ahm()
+// var b = 10
+// function ahm(params) {
+//      a = 3;
+// }
+
+// console.log(a)
+
+// console.log(b)
+
+//with var keyword accessing outside block scope 
+//we got an error at line 46
+
+ahm()
+var b = 10
+function ahm(params) {
+    var a = 3;
+}
+
+console.log(a)
+
+console.log(b)
