@@ -67,6 +67,13 @@
 // list.removeChild(lis[4])
 // console.log(list)
 
+
+
+
+
+
+
+
 // 11.	Class list ,,add / remove
 
 // var h = document.querySelector('h3')
