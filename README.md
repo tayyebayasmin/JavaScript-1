@@ -19,28 +19,28 @@
    - [Demo](https://learn-webdevyt.github.io/weight-converter/) 
    - [Source Code](https://github.com/learn-webdevYT/weight-converter)
    - [YouTube Tutorial](https://youtu.be/70Tn5EwCB14)
-   - [Blog Article Tutorial](https://learn-webdev.com/52-projects-in-52-weeks/week-9-javascript-beginner-projects-tutorial-weight-converter/)
+
 --- 
 
    ## 4. Height Converter
    - [Demo](https://learn-webdevyt.github.io/height-converter/) 
    - [Source Code](https://github.com/learn-webdevYT/height-converter)
    - [YouTube Tutorial](https://youtu.be/5G-sevyE1N4)
-   - [Blog Article Tutorial](https://learn-webdev.com/52-projects-in-52-weeks/week-8-javascript-beginner-projects-tutorial-height-converter/)
+
 ---   
 
    ## 5. Show Day of the Week
    - [Demo](https://learn-webdevyt.github.io/show-day-of-the-week/) 
    - [Source Code](https://github.com/learn-webdevYT/show-day-of-the-week)
    - [YouTube Tutorial](https://youtu.be/2cQUkYU8AmI)
-   - [Blog Article Tutorial](https://learn-webdev.com/52-projects-in-52-weeks/week-7-javascript-beginner-projects-tutorial-show-day-of-the-week/)
+
 ---
 
    ## 6. Number Guessing Game
    - [Demo](https://learn-webdevyt.github.io/number-guessing-game/) 
    - [Source Code](https://github.com/learn-webdevYT/number-guessing-game)
    - [YouTube Tutorial](https://youtu.be/2cQUkYU8AmI)
-   - [Blog Article Tutorial](https://learn-webdev.com/52-projects-in-52-weeks/week-6-javascript-beginner-projects-tutorial-number-guessing-game/)
+
 ---
 
 
