@@ -115,4 +115,4 @@ console.log(document)
 
 // console.log(a[2])
 
- 
+ console.log(document.childNodes[1])
