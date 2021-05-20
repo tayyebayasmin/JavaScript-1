@@ -48,22 +48,33 @@ student.greet = function() {
 // }
 
 
+
+
+
+
 // call back fucntion
 
 
 // first function
 // function f1(second){// recieving ,,,kch bi name
-//     console.log("kch bi")
+//     console.log("kch bi uni me a kr jo krna")
+
 //     second() // calling func 2
     
 // }
+
 // //sencond fucntion
 // function f2 (){
 //     console.log('2nd fucntion')
 // }
 
 // //calling function 1
-// f1(f2) // passing f2 in arguments
+// f1(f2) // passing f2 in arguments of f1
+
+
+
+
+
 
 // var kch = 123;
 
@@ -177,19 +188,104 @@ student.greet = function() {
 
 
 
-var myVar = 100;
+// var myVar = 100;
 
-function WhoIsThis() {
+// function WhoIsThis() {
   
-    alert(this.myVar);
-}
+//     alert(this.myVar);
+// }
 
-var obj1 = { myVar : 200  };//////////////////@@@@@@@
+// var obj1 = { myVar : 200  };//////////////////@@@@@@@
 
-var obj2 = { myVar : 300 };
+// var obj2 = { myVar : 300 };
 
-WhoIsThis(obj1); // 'this' will point to window object
+// WhoIsThis(obj1); // 'this' will point to window object
 
-WhoIsThis.call(obj1); // 'this' will point to obj1
+// WhoIsThis.call(obj1); // 'this' will point to obj1
 
-WhoIsThis.apply(obj2); // 'this' will point to obj2
+// WhoIsThis.apply(obj2); // 'this' will point to obj2
+
+
+//          ------------------------
+
+// example 
+
+// var myVar = 100;
+
+// function WhoIsThis() {
+
+//     console.log(this.myVar);
+// }
+
+// var obj1 = { myVar : 200 , whoIsThis: WhoIsThis };//////////////////@@@@@@@
+
+
+// WhoIsThis(); // OR
+
+// obj1.whoIsThis.call(window); // 'this' will point to window object
+
+// obj1.whoIsThis.call(obj1);
+
+
+
+//bind
+
+
+// var myVar = 100;
+    
+// function SomeFunction(callback)
+// {
+//     var myVar = 200;
+//     alert(myVar)
+//     alert("this refers to " + this + ", myVar = " + this.myVar);
+//      callback();
+// };
+
+// var obj = {
+//             myVar: 300,
+//             WhoIsThis : function() {
+//                 alert("this refers to " + this + ", myVar = " + this.myVar);
+//             }
+//     };
+
+// SomeFunction(obj.WhoIsThis); 
+// SomeFunction(obj.WhoIsThis.bind(obj)); 
+
+// var a = 3;
+
+
+// function ah(e){
+//     console.log(e)
+//     console.log(e.parentNode)
+//     console.log(this.a)
+//     console.log(window)
+// }
+
+
+
+
+
+///  20 May
+
+
+
+// let newobject = new Object();
+// console.log(newobject)
+
+
+let newo = {}
+console.log(newo)
+
+newo.name = "chair"
+
+console.log(newo.name)
+console.log(newo['name'])
+
+
+newo['height'] = '2 ft'
+
+console.log(newo)
+
+delete newo.name;
+
+console.log(newo)
