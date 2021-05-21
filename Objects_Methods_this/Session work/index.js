@@ -273,19 +273,36 @@ student.greet = function() {
 // console.log(newobject)
 
 
-let newo = {}
-console.log(newo)
+// let newo = {}
+// console.log(newo)
 
-newo.name = "chair"
+// newo.name = "chair"
 
-console.log(newo.name)
-console.log(newo['name'])
+// console.log(newo.name)
+// console.log(newo['name'])
 
 
-newo['height'] = '2 ft'
+// newo['height'] = '2 ft'
 
-console.log(newo)
+// console.log(newo)
 
-delete newo.name;
+// delete newo.name;
 
-console.log(newo)
+// console.log(newo)
+
+
+
+
+// function Ali(ahmad){
+//     console.log("ali")
+
+//     ahmad()
+
+// }
+
+// function Mustafa(){
+//     console.log("mustafa")
+// }
+
+
+// Ali(Mustafa)

@@ -46,12 +46,12 @@ function addTodo() {
  
 
 function deleList(e){
-    console.log(e)
+
     e.parentNode.remove();
 }
 
 function editList(e) {
-  console.log(e.parentNode)
+
     var val = prompt("Edit Your Name...",e.parentNode.firstChild.nodeValue)
     e.parentNode.firstChild.nodeValue = val
 }
