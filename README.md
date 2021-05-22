@@ -1,60 +1,97 @@
-                # Javascript Projects Home Work ..
 
 
+               # JavaScript Sessions - Web Community
+ 
+
+<p align="center">
+<img src= images\JavaScript-logo-1024x1024.png 
+width= 500px height = 400px ></img>
+</p>
+<br>
+
+# Topics Covered :
+
+<br>
+
+## Part-1 :
 
 
-  ## 1. TIP Calculator
-   - [Demo](https://learn-webdevyt.github.io/tip-calculator/) 
-   - [Source Code](https://github.com/learn-webdevYT/tip-calculator)
-   - [YouTube Tutorial](https://youtu.be/l1T0YH0qt-c)
+***
+
+<br>
+
+1. ### Baiscs :
+   - Installation of vs code and node js
+   - Console.log
+	- Document.write
+	- Variables
+	- ***Data Types***
+      1. Primitives
+      1. Complex Types / non Primtive
+
+   - Typeof Operator
+	- Statements
+	- Expressions
+	- Comments
+   -	Reserved Keywords
+   -	Variable Names
+   -	Case Sensitive
+   -	Camel Case
+   -	Operators
+   -	Operator Precedence
+   -	String Concatenation
+   -	Prompt
+   -	Parsing String
+   -	Conditions
+   -	Value Conversion to Boolean
+   -	Loops
+   -	Break and Continue Keyword
+   -	Arrays
+   -	String
+   -	Escape Character
+   -	String Functions
+   -	Math Function
+   -	Date Objects
+   -	Functions
+
+   <br>
+
+   ---
+<br>
+
+## Part-2 :
+<br>
+
+***
+ ### 2. <u>Adavance JS
+-	Template literals
+-	Scope in Block statements
+-	Lexical Scope
+-	Let and Const keyword
+-	Hoisting
+-	DOM
+
+<br>
+
 ---
 
-  ## 2. BMI Calculator
-   - [Demo](https://learn-webdevyt.github.io/BMI-Calculator/) 
-   - [Source Code](https://github.com/learn-webdevYT/BMI-Calculator)
-   - [YouTube Tutorial](https://youtu.be/JBDW-R_vs6M)
----  
+<br>
 
-   ## 3. Weight Converter
-   - [Demo](https://learn-webdevyt.github.io/weight-converter/) 
-   - [Source Code](https://github.com/learn-webdevYT/weight-converter)
-   - [YouTube Tutorial](https://youtu.be/70Tn5EwCB14)
+# Projects Covered :
 
---- 
+<br>
 
-   ## 4. Height Converter
-   - [Demo](https://learn-webdevyt.github.io/height-converter/) 
-   - [Source Code](https://github.com/learn-webdevYT/height-converter)
-   - [YouTube Tutorial](https://youtu.be/5G-sevyE1N4)
-
----   
-
-   ## 5. Show Day of the Week
-   - [Demo](https://learn-webdevyt.github.io/show-day-of-the-week/) 
-   - [Source Code](https://github.com/learn-webdevYT/show-day-of-the-week)
-   - [YouTube Tutorial](https://youtu.be/2cQUkYU8AmI)
-
----
-
-   ## 6. Number Guessing Game
-   - [Demo](https://learn-webdevyt.github.io/number-guessing-game/) 
-   - [Source Code](https://github.com/learn-webdevYT/number-guessing-game)
-   - [YouTube Tutorial](https://youtu.be/2cQUkYU8AmI)
-
----
-
-
-  ## 7. Change CSS with JavaScript
-   - [Demo](https://learn-webdevyt.github.io/change-css-with-javascript/) 
-   - [Source Code](https://github.com/learn-webdevYT/change-css-with-javascript)
-   - [YouTube Tutorial](https://youtu.be/nohnYwuy8YY)
----
-
-
-  ## 8. To Do List
-   - [Demo](https://learn-webdevyt.github.io/to-do-list/) 
-   - [Source Code](https://github.com/learn-webdevYT/to-do-list)
-   - [YouTube Tutorial](https://youtu.be/-pRg_daFjfk)
----
-
-
+1.	Change Color on Click
+2.	Change Image on Click
+3.	Word Length Calculator
+4.	Simple Counter
+5.	Random Quote Generator
+6.	Number Guessing Game
+7.	Show Day of the Week
+8.	Height Converter
+9.	Weight Converter
+10.	BMI Calculator
+11.	TIP Calculator
+12.	Image Slider
+13.	Change CSS with JavaScript
+14.	To Do List (Four Kinds of dif. to do lists)
