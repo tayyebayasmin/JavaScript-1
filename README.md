@@ -5,12 +5,12 @@
 
 <p align="center">
 <img src= images\JavaScript-logo-1024x1024.png 
-width= 500px height = 400px ></img>
+width= 400px height = 300px ></img>
 </p>
 <br>
 
 # Topics Covered :
-***[Click here for Details](topics-Details.txt)***
+***[Click here for Details](Readme2file.md)***
 <br>
 
 ## Part-1 :
