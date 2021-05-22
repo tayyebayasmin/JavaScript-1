@@ -76,6 +76,13 @@ width= 400px height = 300px ></img>
 -	Let and Const keyword
 -	Hoisting
 -	DOM
+- Object
+   1.	Methods
+-	This keyword
+-	Windows model
+-	Call back functions
+-	Function object
+
 
 <br>
 

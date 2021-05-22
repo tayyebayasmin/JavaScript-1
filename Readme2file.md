@@ -184,6 +184,14 @@
         - 	Mouse enters
         - 	Mouse leave
         -	Mouse move
+    - [Object](Objects_Methods_this\Readme.md)
+
+       1.	Methods
+    -	This keyword
+    -	Windows model
+    -	Call back functions
+    -	Function object
+
 
 
 
