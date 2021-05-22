@@ -10,7 +10,7 @@ width= 500px height = 400px ></img>
 <br>
 
 # Topics Covered :
-
+***[Click here for Details](topics-Details.txt)***
 <br>
 
 ## Part-1 :
