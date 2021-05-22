@@ -2,11 +2,15 @@
 
 # Details of Topics Covered :
 
+### [*Basics of JS*](#basics)
+### [*Advance JS*](#advance)
+ 
 
 ## Part-1 :
 
 
-1. ### Baiscs :
+<h3 id= "basics">Basics of JS</h3>
+
    - Installation of vs code and node js
    - Console.log
 	- Document.write
@@ -146,7 +150,8 @@
 
 
 
- ### 2. <u>Adavance JS
+<h3 id= "advance">Advance JS</h3>
+
 -	Template literals
 -	Scope in Block statements
 -	Lexical Scope
