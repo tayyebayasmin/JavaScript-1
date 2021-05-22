@@ -4,7 +4,8 @@
 
 ### [*Basics of JS*](#basics)
 ### [*Advance JS*](#advance)
- 
+### [*Projects Covered*](#projects)
+
 
 ## Part-1 :
 
@@ -193,7 +194,7 @@
 
 <br>
 
-# Projects Covered :
+<h1 id= "projects">Projects Covered</h1>
 
 
 1.	Change Color on Click
