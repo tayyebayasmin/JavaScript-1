@@ -1,8 +1,7 @@
 
 
 # Details of Topics Covered :
-***[Click here for Details](topics-Details.txt)***
-<br>
+
 
 ## Part-1 :
 
