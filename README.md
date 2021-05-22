@@ -16,7 +16,6 @@ width= 500px height = 400px ></img>
 ## Part-1 :
 
 
-<br>
 
 1. ### Baiscs :
    - Installation of vs code and node js
@@ -59,7 +58,7 @@ width= 500px height = 400px ></img>
 
 ## Part-2 :
 
-<br>
+
 
  ### 2. <u>Adavance JS
 -	Template literals
@@ -77,7 +76,6 @@ width= 500px height = 400px ></img>
 
 # Projects Covered :
 
-<br>
 
 1.	Change Color on Click
 2.	Change Image on Click
