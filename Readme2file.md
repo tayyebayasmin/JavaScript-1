@@ -159,7 +159,7 @@
 -	Let and Const keyword
 -	Hoisting
 -	DOM
-    -	Traversing DOM
+-	Traversing DOM
     -	Previous and next sibling
     -	First and last child
     -	Get/Update DOM element
@@ -178,19 +178,48 @@
         2.	using classes
         3.	using query selector
         4.	Using tag name
-    -	Events
-        - 	Onclick
-        - 	Double click
-        - 	Mouse enters
-        - 	Mouse leave
-        -	Mouse move
-    - [Object](https://github.com/ahmadhah/JavaScript/blob/main/Objects_Methods_this/Readme.md)
+- Events
 
-       1.	Methods
-    -	This keyword
-    -	Windows model
-    -	Call back functions
-    -	Function object
+     - 	Onclick
+     - 	Double click
+     - 	Mouse enters
+     - 	Mouse leave
+     -	Mouse move
+- [Object](https://github.com/ahmadhah/JavaScript/blob/main/Objects_Methods_this)
+     
+     - [link](https://www.programiz.com/javascript/object)
+
+-	Methods
+     - [link](https://www.programiz.com/javascript/methods)
+-	This keyword
+
+    - [Link 1](https://www.programiz.com/javascript/methods)
+    - [Link 2](https://www.tutorialsteacher.com/javascript/this-keyword-in-javascript)
+    - [Todo App](https://codepen.io/anacloud_official/pen/MWJPMrB?editors=1111)
+     
+-	[Windows model](https://www.w3schools.com/js/js_window.asp)
+-	Call back functions
+-	Function object
+-	Call back functions
+     - [link](https://www.programiz.com/javascript/callback)
+-	Spread operator & Rest Parameter
+
+     - [Link 1](https://scotch.io/bar-talk/javascripts-three-dots-spread-vs-rest-operators543)
+     - [Link 2](https://www.programiz.com/javascript/spread-operator)
+
+-    Clousres
+     - [link 1](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+     - [link 2](https://www.freecodecamp.org/news/lets-learn-javascript-closures-66feb44f6a44/)
+
+     - [Link 3](https://www.programiz.com/javascript/closure) 
+ 
+-	Destructring
+     - [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+-	Conditional Operator
+-	Short Circuit Evaluation (&& ||)
+-	Arrow Functions
+-	Costructor Function
+-	Class
 
 
 

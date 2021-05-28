@@ -77,12 +77,19 @@ width= 400px height = 300px ></img>
 -	Hoisting
 -	DOM
 - Object
-   1.	Methods
+   - 	Methods
 -	This keyword
 -	Windows model
 -	Call back functions
--	Function object
-
+-	Spread operator
+- Rest Parameter
+- Closures
+-	Destructring
+-	Conditional Operator
+-	Short Circuit Evaluation (&& ||)
+-	Arrow Functions
+-	Costructor Func
+-	Class
 
 <br>
 
