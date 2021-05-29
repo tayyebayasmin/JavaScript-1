@@ -222,7 +222,13 @@
  
 
 -	Short Circuit Evaluation (&& ||)
+     - [Link 1](https://medium.com/khojchakra/understanding-short-circuit-evaluation-in-javascript-31b5770a41f7)
+
+     - [Link 2](https://dev.to/akhil_001/short-circuit-evaluation-in-javascript-3o5a )
+
 -	Arrow Functions
+
+
 -	Costructor Function
 -	Class
 
