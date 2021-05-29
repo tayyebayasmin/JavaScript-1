@@ -216,10 +216,11 @@
 -	Destructring
      - [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 -	Conditional Operator / Ternary Operator
-     - [link 1](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+    - [link 1 ](https://scotch.io/tutorials/understand-the-javascript-ternary-operator-like-abc)
+     - [link 2](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
 
-     - [link 2 ](https://scotch.io/tutorials/understand-the-javascript-ternary-operator-like-abc)
-     
+ 
+
 -	Short Circuit Evaluation (&& ||)
 -	Arrow Functions
 -	Costructor Function
