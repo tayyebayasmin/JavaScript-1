@@ -198,7 +198,7 @@
     - [Todo App](https://codepen.io/anacloud_official/pen/MWJPMrB?editors=1111)
      
 -	[Windows model](https://www.w3schools.com/js/js_window.asp)
--	Call back functions
+
 -	Function object
 -	Call back functions
      - [link](https://www.programiz.com/javascript/callback)
