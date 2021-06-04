@@ -227,10 +227,17 @@
      - [Link 2](https://dev.to/akhil_001/short-circuit-evaluation-in-javascript-3o5a )
 
 -	Arrow Functions
-
+     - [Link](https://www.programiz.com/javascript/arrow-function )
 
 -	Costructor Function
+
+     - [Link 1](https://www.educative.io/edpresso/what-is-a-constructor-in-javascript )
+     - [Link 2](https://www.programiz.com/javascript/constructor-function )
+
 -	Class
+     - [Link](https://www.programiz.com/javascript/classes)
+- Inheritance
+     - [Link](https://www.programiz.com/javascript/inheritance)
 
 
 
