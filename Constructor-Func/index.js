@@ -31,35 +31,35 @@
 
 
 
-class Person{
-    constructor(){
-        this.Fname = "Ahmad"
-        this.Lname = "Hannan"
-    }
-     FullName(){
-        return (this.Fname +" " + this.Lname)
-    }
+// class Person{
+//     constructor(){
+//         this.Fname = "Ahmad"
+//         this.Lname = "Hannan"
+//     }
+//      FullName(){
+//         return (this.Fname +" " + this.Lname)
+//     }
 
-     SetName(name){
-        const parts = name.split(' ')
-        console.log(parts)
-        this.Fname = parts [0]
-        this.Lname = parts[1]
-    }
-}
+//      SetName(name){
+//         const parts = name.split(' ')
+//         console.log(parts)
+//         this.Fname = parts [0]
+//         this.Lname = parts[1]
+//     }
+// }
 
-const person1 = new Person();
+// const person1 = new Person();
 
-console.log(person1.FullName())
+// console.log(person1.FullName())
 
-person1.SetName('Masood Baig')
+// person1.SetName('Masood Baig')
 
-console.log(person1.FullName())
+// console.log(person1.FullName())
 
 
 
 // // // parent class
-// class Person { 
+//  class Person { 
 //     constructor(name) {
 //         this.name = name;
 //         this.occupation = "unemployed";
@@ -92,3 +92,6 @@ console.log(person1.FullName())
 // }
 // let p = new Student('Naseem');
 // console.log(p)
+
+
+

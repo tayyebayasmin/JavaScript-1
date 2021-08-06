@@ -97,6 +97,39 @@ width= 400px height = 300px ></img>
 
 <br>
 
+## Part-3 :
+
+
+<h3 id= "advance">Advance JS(Continue)</h3>
+
+<br>
+
+1. Introduction 
+2. Conditionals 
+3. Functions 
+4. Scope 
+5. Arrays 
+6. Loops 
+7. Iterators 
+8. Objects 
+9. Prototype 
+10. Classes 
+11. ES6
+12. Browser Compatibility and Transpilation 
+13. Modules 
+14. Promises 
+15. Try-Catch 
+16. Browser Memory 
+17. setTimeout 
+18. synchronous vs Asynchronous 
+19. Async-Await 
+20. JavaScript and JSON 
+21. Data Fetching 
+22. Requests..
+<br>
+   ---
+<br>
+
 # Projects Covered :
 
 
@@ -114,5 +147,8 @@ width= 400px height = 300px ></img>
 12.	Image Slider
 13.	Change CSS with JavaScript
 14.	To Do List (Four Kinds of dif. to do lists)
+15. CGPA & GPA Calculator
+16. Github Users searching 
+17. etc..
 
 
