@@ -104,7 +104,9 @@ width= 400px height = 300px ></img>
 
 <br>
 
-1. Introduction 
+1. Introduction  
+    - [link](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+
 2. Conditionals 
 3. Functions 
 4. Scope 
