@@ -125,7 +125,7 @@ width= 400px height = 300px ></img>
 13. Modules 
     - [link](https://www.programiz.com/javascript/modules)
 14. Promises 
-    - [link](https://scotch.io/courses/10-need-to-know-javascript-concepts/callbacks-promises-and-async
+    - [link](https://scotch.io/courses/10-need-to-know-javascript-concepts/callbacks-promises-and-async)
     - [link](https://www.programiz.com/javascript/promise)
 15. Try-Catch 
 16. Browser Memory 
