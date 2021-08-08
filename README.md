@@ -111,23 +111,35 @@ width= 400px height = 300px ></img>
 3. Functions 
 4. Scope 
 5. Arrays 
+    - [link](https://www.javascripttutorial.net/javascript-array-reduce/)
 6. Loops 
 7. Iterators 
 8. Objects 
+    - [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set)
 9. Prototype 
+    - [link](https://www.programiz.com/javascript/prototype)
 10. Classes 
 11. ES6
+   -[link](https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/)
 12. Browser Compatibility and Transpilation 
 13. Modules 
+    - [link](https://www.programiz.com/javascript/modules)
 14. Promises 
+    - [link](https://scotch.io/courses/10-need-to-know-javascript-concepts/callbacks-promises-and-async
+    - [link](https://www.programiz.com/javascript/promise)
 15. Try-Catch 
 16. Browser Memory 
 17. setTimeout 
+    - [link](https://www.programiz.com/javascript/setTimeout)
+    - [link](https://www.programiz.com/javascript/setInterval)
 18. synchronous vs Asynchronous 
 19. Async-Await 
+    -[link](https://javascript.info/async-await)
 20. JavaScript and JSON 
 21. Data Fetching 
+    -[link](https://medium.com/swlh/consuming-apis-using-javascript-c980abd36d59)
 22. Requests..
+    -[link](https://www.tutorialrepublic.com/html-tutorial/html5-web-storage.php)
 <br>
    ---
 <br>
